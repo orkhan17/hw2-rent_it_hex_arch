@@ -1,4 +1,4 @@
-module rent_it_hex
+module hw2_rent_it_hex_arch
 
 go 1.16
 
