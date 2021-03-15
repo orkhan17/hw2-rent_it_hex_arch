@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	repository2 "github.com/orkhan17/hw2-rent_it_hex_arch/pkg/repositories/plant"
-	"github.com/orkhan17/hw2-rent_it_hex_arch/pkg/service"
-	http2 "github.com/orkhan17/hw2-rent_it_hex_arch/pkg/handlers"
+	repository2 "github.com/orkhan17/hw2_rent_it_hex_arch/pkg/repositories/plant"
+	"github.com/orkhan17/hw2_rent_it_hex_arch/pkg/service"
+	http2 "github.com/orkhan17/hw2_rent_it_hex_arch/pkg/handlers"
 	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"
 	"net/http"

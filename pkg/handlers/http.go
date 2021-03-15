@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"github.com/gorilla/mux"
 	"net/http"
-	"github.com/orkhan17/hw2-rent_it_hex_arch/pkg/internal/core/domain"
+	"github.com/orkhan17/hw2_rent_it_hex_arch/pkg/internal/core/domain"
 	)
 
 type plantService interface {
